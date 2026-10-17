@@ -1,0 +1,501 @@
+===== SimpleRNN | seed 0 | T=0.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+duke vincentio:
+gentle lords,
+that i may have an been a tongue
+with this wife, i'll leave thy life.
+to do not alone, i will not be a man.
+
+friar laurence:
+o, i do the king, that i would do you
+the king
+
+===== SimpleRNN | seed 0 | T=1.0 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+juliet:
+i spy where where i was but amazed for words.
+
+angelo:
+'tis cry a complainings there did me be:
+their boots going to his youth,
+so which we say them well. if they do it not
+my all slow than father's paper.
+
+duke of
+
+===== SimpleRNN | seed 0 | T=1.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] and many impatience will
+haunted deserved sport. come for o'erpast such beauty's pride,
+and consume ere folly for lots incur respected and business
+in circumstance crack'd fines; whose oak and king!
+ratcliff in growth burns for hereditary corpse; my perpetual,
+the feverous brains free compassion us pluck,
+
+
+===== SimpleRNN | seed 1 | T=0.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] ?
+
+autolycus:
+nay, sir, you have done, sir,
+i have no more than the boar - day,
+and i will make them to the tower,
+and i will be here?
+
+paulina:
+i know,
+the traitor of the state of your life,
+
+===== SimpleRNN | seed 1 | T=1.0 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] thou! let's save the tabour of haste,
+that titus issue thus from the wanton and dry
+case to meditation here; and let the grace are beg - -
+if i have rest to jest my garden - - which if you
+daughter, i, cousin of sorrow her lucentio?
+i
+
+===== SimpleRNN | seed 1 | T=1.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] yes; kiss'd shame to shoulder'd richmond o' the suit. stay before cry these crown;
+stephen ruthless bar as aurora's unroof'd possess'd,
+and here suspect oft lamely they ask power
+a special widow fools here 'shall' writ. when fresh jest to envy
+what, inform day unto richmond? when a soul
+
+===== SimpleRNN | seed 2 | T=0.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] .
+
+juliet:
+madam, sir, you have done, sir,
+i have no more than the boar - day,
+and i will make them to the tower,
+and i will be here?
+
+paulina:
+i know,
+the traitor of the state of your life,
+
+===== SimpleRNN | seed 2 | T=1.0 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] ?
+three wind, unrest with itself, as he fights.
+
+second citizen:
+faith, peace, beware! or that your time, but there about
+for no than my cousin, let it themselves.
+marry, by a lordship, you, gracious dear angelo?
+
+friar:
+
+
+===== SimpleRNN | seed 2 | T=1.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] instruments, he's pride
+untouch'd several diseases. say now garter help thyself?
+faith, musicians they happiness shall coffin'd eternity presently,
+and no fierce applause gosling hours free foe,
+made thy guiltless love's treasury renowned iv buckingham!
+let corioli have sweet. commanded slain high murderous face and:
+
+
+===== BiRNN | seed 0 | T=0.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+duke vincentio:
+ay, by the world of this while he are
+you, sir, lord, go not my lord:
+and thou shalt call me to my lord,
+and this that hast be a traitor of the
+that i have the point of your flesh and now,
+
+
+===== BiRNN | seed 0 | T=1.0 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+menenius:
+i protest his bodies, he then crept men did:
+now, either cominius!
+
+cleomenes:
+that thy lord, edward sicinius might of all:
+and then me turn! yea, your books!
+be something of my thee here! o paulina,
+i have
+
+===== BiRNN | seed 0 | T=1.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] would who royally slaves
+companionship venture musicians the weakness whose desirers about seeing;
+after i neglect seen calls so flatteries lent hither.
+
+duke of throne breast real friends:
+as in those rest conjure gaunt pardons nail; we'll sounded speak.
+
+romeo:
+oh why shows smile thee sound and him
+
+===== BiRNN | seed 1 | T=0.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] is a woman?
+
+peter:
+i am a play of me, and i have been?
+
+queen elizabeth:
+the world, to thee the work of the world,
+to the people of your counsel, and be
+to make the very of this world.
+
+coriolanus:
+i
+
+===== BiRNN | seed 1 | T=1.0 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] could will mock thee, cloth let us,
+for unhappy defend heart to this consent, good henry.
+interr'd much maid: but the great veins for archbishop
+in men of your measure: o now comes thy hand;
+for this curse i have, since we could until it myself
+to
+
+===== BiRNN | seed 1 | T=1.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] cloud leontes killed london, standest finger therefore
+last whose drawbridge government withal!
+
+fight: therefore is't proclaim'd, planet silk pretty say;
+- interchange yard deceiveable much present ear,
+these foot lists call arguments childish continue incorporate brains,
+thou'rt may his lord lust food forsworn beloved; for the king
+
+===== BiRNN | seed 2 | T=0.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] 
+and all the poor highway.
+
+first senator:
+what is my lord,
+he would be so man?
+
+lady anne:
+what is no, my lord, and you have been a business.
+o, i will not not to the people.
+
+angelo:
+i will
+
+===== BiRNN | seed 2 | T=1.0 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] out:
+who i honestly by truth, but as won as maid,
+as i confess so place to afoot ' thou give me
+to ne'er neither breeder the sword to be.
+
+queen elizabeth:
+every child may wash a holy guard
+to the injury of mine liking.
+
+first capulet
+
+===== BiRNN | seed 2 | T=1.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] ale and vexation as
+apprenticehood months female - desperate hearing wrongfully spurs worthily their shame;
+assembly served ensue them interruption hatch'd weather to want
+his issues paid remaining art on mine eyes, now
+
+ghost edward perfume manifest england delivery for't:
+brief of her: lesser weeds stabb'd 'be cheeks;
+a
+
+===== LSTM | seed 0 | T=0.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+queen elizabeth:
+ay, good my lord, for that that i will be
+with it to the romans.
+
+first murderer:
+no, let me be a man, and i are not to
+the air of the world.
+
+romeo:
+what, sir, i have not
+
+===== LSTM | seed 0 | T=1.0 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+menenius:
+i say'st her ne'er, good sir?
+
+volumnia:
+how, that's well?
+
+titus mayor:
+sir, i leave thee ballad.
+
+marcius:
+then, look you so not. i please you: by to me
+use him or mighty three office, and
+
+===== LSTM | seed 0 | T=1.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+sicinius:
+is official abide ease: she must march'd along!
+
+lady anne:
+'twas 'fore her urn heartily flock.
+
+lord:
+
+field depose:
+poor life the knees is hateful harm cries!
+dearly landed with oath gremio: for, praise her certain hair,
+for this
+
+===== LSTM | seed 1 | T=0.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] is a maid to the devil.
+
+king richard iii:
+well, i are a thousand - place, sir.
+
+first murderer:
+what is no?
+
+menenius:
+you have not a thousand man, as he is,
+and i the gods have made your head.
+
+first
+
+===== LSTM | seed 1 | T=1.0 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] did be revenged it, glass.
+
+duke vincentio:
+richard! you have been the churchyard with such true speed;
+to see the poor wretched weeds confound thee:
+i will now not leave me nor thence.
+
+volumnia:
+such a hand
+coriolanus shall know no prince; and i
+
+===== LSTM | seed 1 | T=1.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] sorry we apace thyself, bought after post
+had every reeking shaped locks prove a allow
+springs urged strength for digestion baited by.
+
+king richard iv: farewell:
+never go that purpose what vile accept sin;
+taking suffering how i'll mourn to know
+violent bond there fights too foes, that
+
+===== LSTM | seed 2 | T=0.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] 
+to give him, which he were to - - - - -
+
+first murderer:
+he will not die in your brother:
+and for my highness, i will not the world
+that i am no.
+
+provost:
+no, i have been as that he shall be
+the
+
+===== LSTM | seed 2 | T=1.0 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] long,
+at you tempt forth by you.
+
+virgilia:
+on my soul, master so never? doth kiss what i say
+i look them whether you be any?
+
+sicinius:
+on nothing not to thence are but my air,
+the writing hastings your venom doth time
+to
+
+===== LSTM | seed 2 | T=1.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] wake: - only
+eighteen arguments does such sake be hent made she'll;
+nay, youthful uncle according you robbed pluck back:
+and no vantage incensed hairs this charge;
+a spirits time thinks upon execution wast - beats they is.
+
+edward:
+sometime hap cominius out be certain and thou
+
+===== GRU | seed 0 | T=0.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+henry bolingbroke:
+ay, but the good lord; and all the lord of york.
+
+gloucester:
+why, my lord, i am not too much.
+
+king richard iii:
+what! you have no need to be a king,
+that is a sin of all the noble
+
+===== GRU | seed 0 | T=1.0 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] 
+
+juliet:
+i aim no knee, as a surfeit young fortune:
+do the bar hence than his denies toads;
+for the rest might yield otherwise to her,
+and much with ancient black sparkling by the root.
+we never his name, whose famous princes are,
+and in
+
+===== GRU | seed 0 | T=1.5 =====
+[SEED] first citizen :
+before we proceed any further , hear me speak .
+[GENERATED] how i'll pursued lord, sufficeth is rogue
+than mine substitutes 'gainst rewards ever than ay
+allow nor damnable kind unfeignedly plucks plantagenet
+look: his roar volume prophets grown led strength,
+beg thy burden encounter dash bite your pate!
+say presently to look, score faced monster approved us;
+a
+
+===== GRU | seed 1 | T=0.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] is a traitor.
+welcome, come, i will not do your grace,
+and give me well: therefore, what, i have
+a little choice.
+
+lucio:
+what, sir, it is a bawd of my good lord,
+the heavens shall be so; for the one
+
+===== GRU | seed 1 | T=1.0 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] were we speaks when
+robbers conquest put to earth and dullest virtue;
+and when the hopeless gaoler at the mantle.
+
+love:
+a brows were thorny for a calls,
+as is so things yet such a wave so.
+mine, is, madam. what comes a maid,
+
+
+===== GRU | seed 1 | T=1.5 =====
+[SEED] king richard :
+my lord , what news
+[GENERATED] sits long wink told. usurps warwick!
+away thy cedars hap mark'd here this sits
+saving praise content in shrinks cobham honour,
+and them provoked yourselves salve for honour the father,
+by sentenced marry lesser sickness on drums is tongue,
+your free and collected lamentation four tents.
+
+queen iii
+
+===== GRU | seed 2 | T=0.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] 
+and that's not to wail his leisure.
+
+isabella:
+well, he be to his purpose.
+
+hermione:
+i am, sir.
+
+florizel:
+a most good - -
+
+duke vincentio:
+sir, i will not.
+
+duke vincentio:
+no, no, i
+
+===== GRU | seed 2 | T=1.0 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] .
+plantagenet!
+
+archbishop of aumerle:
+no piece my belly: for this you prove?
+
+gloucester:
+very well:
+i hope by prunes, not well.
+
+nurse:
+come not; i thank thee, for thee, of, gracious word.
+
+juliet:
+my
+
+===== GRU | seed 2 | T=1.5 =====
+[SEED] romeo :
+o , she doth teach the torches to burn bright
+[GENERATED] vice: marcius can
+tormented neither gently. an quoth digg'd unknown vigour at warwick?
+kissing prison close 'tis termed vitae did him for
+your sued correction paltering? would tell not in since
+add prisoner former feet? eternal toys what o mad,
+the bruised pray'd deeper declines ask england,
+
+
